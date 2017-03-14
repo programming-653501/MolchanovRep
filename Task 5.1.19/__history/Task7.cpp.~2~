@@ -1,0 +1,66 @@
+#include <conio.h>
+#include <queue.h>
+#include <string.h>
+#include "get_value.h"
+
+struct ListMember {
+	ListMember* Previous;
+	int Value;
+	ListMember* Next;
+};
+
+struct List {
+	ListMember* First;
+	ListMember* Last;
+
+	void Add(int arg) {
+		ListMember* NewMember = new ListMember;
+		Last -> Next = NewMember;
+		NewMember -> Previous = Last;
+		NewMember -> Value = arg;
+		NewMember -> Next = NULL;
+		Last = NewMember;
+	}
+
+	void Display() {
+		ListMember* I = First;
+		while (I != NULL) {
+			cout << I -> Value << " ";
+			I = I -> Next;
+		}
+	}
+
+	List(int arg) {
+		ListMember* NewMember = new ListMember;
+		NewMember -> Previous = NULL;
+		NewMember -> Value = arg;
+		NewMember -> Next = NULL;
+		First = Last = NewMember;
+    }
+};
+
+struct LongNumber {
+	List Value;
+	void ToBinary() {
+
+    }
+};
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	List MyList(0);
+	int temp;
+	do {
+		temp = cin.get();
+		if (temp >= 48 && temp <= 57) {
+			MyList.Add(temp - 48);
+		}
+	}
+	while ((char)temp != '\n');
+
+	MyList.Display();
+
+	getch();
+	return 0;
+}
+//---------------------------------------------------------------------------

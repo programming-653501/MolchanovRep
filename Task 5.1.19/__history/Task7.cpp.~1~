@@ -1,0 +1,33 @@
+#include <conio.h>
+#include <queue.h>
+#include <string.h>
+#include "get_value.h"
+
+class LongNumber {
+	private:
+		string value;
+		queue<int> integer_part;
+		queue<int> fractional_part;
+	public:
+		LongNumber(string arg) {
+			value = arg;
+			int length = arg.length();
+		}
+		ToBinary() {
+
+        }
+
+};
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	string number;
+	queue<int> integer;
+	queue<int> fractional;
+
+	get_value(number);
+
+	getch();
+	return 0;
+}
+//---------------------------------------------------------------------------
