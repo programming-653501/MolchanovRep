@@ -1,0 +1,53 @@
+#include <conio.h>
+#include <math.h>
+#include "get_value.h"
+
+struct Tree {
+	Tree* BigChild;
+	Tree* SmallChild;
+	int value;
+
+	bool Find(int arg) {
+		if (arg == value)
+			return true;
+		else
+			return (arg > value ? BigChild -> Find(arg) : SmallChild -> Find(arg));
+	}
+
+	void Add(int arg) {
+		if (arg > value) {
+			if (BigChild == NULL)
+				BigChild = new Tree(arg);
+			else
+				BigChild -> Add(arg);
+		}
+		else {
+			if (SmallChild == NULL)
+				SmallChild = new Tree(arg);
+			else
+				SmallChild -> Add(arg);
+		}
+	}
+
+	Tree(int arg) {
+		value = arg;
+		BigChild = NULL;
+		SmallChild = NULL;
+	}
+};
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	Tree MyTree(1);
+	for (int i = 0; i < 20; i++) {
+		MyTree.Add(i);
+	}
+	for (i = 0; i < 10; i++) {
+		if (MyTree.Find(i)) {
+			cout << i << " was found;\n";
+		}
+	}
+	getch();
+	return 0;
+}
+//---------------------------------------------------------------------------
