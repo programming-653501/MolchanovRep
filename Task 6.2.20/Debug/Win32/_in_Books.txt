@@ -1,0 +1,5 @@
+Pushkin Compilation 10 1
+Lermontov Mziry 20 2
+Tolstoy War&Peace 30 3
+Gogol DeadSouls 40 4
+Gogol Revizor 50 5

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.442,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit1.cpp=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Structures.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.348,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit1.cpp=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\List.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\struct_Book.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.409,=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.092,=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\struct_Book.cpp=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Book.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.152,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Reader.cpp=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.628,=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.872,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Book.h=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.721,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\struct_Reader.h=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Reader.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.245,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Tree.h=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\struct_Tree.cpp=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Tree.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.323,=C:\Users\strannik\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.006,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\List.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.247,=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.721,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\struct_Reader.cpp=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Reader.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\struct_Tree.h=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Tree.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.539,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Project9.cbproj=C:\Users\strannik\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.643,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Task9.cpp=C:\Users\strannik\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.754,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\struct_Reader.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.152,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Reader.h=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.872,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Book.cpp=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.245,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Tree.cpp=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.442,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit1.h=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Structures.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.348,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Unit1.h=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\List.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\struct_Book.h=C:\Users\strannik\Documents\RAD Studio\Projects\Программирование\Task 6.2.20\Book.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Task9.cpp"/>
+  </ProjectSortOrder>
+</BorlandProject>
