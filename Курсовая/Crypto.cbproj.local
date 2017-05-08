@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.733,=C:\Users\stran\Desktop\Crypto\Keys.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.772,C:\Users\stran\Desktop\Crypto — RSA32\File1.h=C:\Users\stran\Desktop\Crypto — RSA32\Primes.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.074,C:\Users\stran\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\stran\Desktop\Crypto\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.077,=C:\Users\stran\Desktop\Crypto\Keys.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.238,=C:\Users\stran\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.475,=C:\Users\stran\Desktop\Crypto — RSA32\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.850,=C:\Users\stran\Desktop\Crypto — RSA32\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.194,=C:\Users\stran\Desktop\Crypto — RSA32\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.548,=C:\Users\stran\Desktop\Crypto — RSA32\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.818,=C:\Users\stran\Desktop\Crypto — RSA32\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.901,C:\Users\stran\Desktop\Crypto32\CryptoIcon.ico=C:\Users\stran\Desktop\Crypto32\Icon.ico</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.869,=C:\Users\stran\Desktop\Crypto32\CryptoIcon.ico</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.536,C:\Users\stran\Desktop\Crypto32\Crypto.h=C:\Users\stran\Desktop\Crypto32\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.069,=C:\Users\stran\Desktop\Crypto\Encryption_XOR.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,C:\Users\stran\Desktop\Crypto — RSA32\Project1PCH1.h=C:\Users\stran\Desktop\Crypto — RSA32\Crypto.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.376,C:\Users\stran\Desktop\Crypto — RSA32\RSA.h=C:\Users\stran\Desktop\Crypto — RSA32\Encryption_RSA.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,C:\Users\stran\Desktop\Crypto — RSA32\RSA.cpp=C:\Users\stran\Desktop\Crypto — RSA32\Encryption_RSA.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,=C:\Users\stran\Desktop\Crypto\Sequence.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,=C:\Users\stran\Desktop\Crypto\Encryption_RSA.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.002,C:\Users\stran\Desktop\Crypto\Crypto.cbproj=C:\Users\stran\Desktop\Crypto\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.524,C:\Users\stran\Desktop\Crypto — RSA32\File1.cpp=C:\Users\stran\Desktop\Crypto — RSA32\Primes.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.479,C:\Users\stran\Desktop\CryptoIcon.ico=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,=C:\Users\stran\Desktop\CryptoIcon.ico</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.737,=C:\Users\stran\Desktop\Crypto\Sequence.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.009,=C:\Users\stran\Desktop\Crypto\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.946,C:\Users\stran\Desktop\Crypto — RSA32\Encryption_RSA.cpp=C:\Users\stran\Desktop\Crypto — RSA32\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.738,C:\Users\stran\Documents\Embarcadero\Studio\Projects\Crypto.cpp=C:\Users\stran\Desktop\Crypto\Crypto.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.260,C:\Users\stran\Desktop\Crypto — RSA32\Encryption_RSA_Advanced.h=C:\Users\stran\Desktop\Crypto — RSA32\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,=C:\Users\stran\Desktop\Crypto\Encryption_RSA.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,C:\Users\stran\Desktop\Crypto — RSA32\Crypto.cbproj=C:\Users\stran\Desktop\Crypto — RSA32\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,C:\Users\stran\Desktop\Crypto32\Crypto.cpp=C:\Users\stran\Desktop\Crypto32\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,=C:\Users\stran\Desktop\Crypto\Encryption_XOR_Advanced.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.948,C:\Users\stran\Desktop\Crypto — RSA32\Encryption_RSA.h=C:\Users\stran\Desktop\Crypto — RSA32\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.118,C:\Users\stran\Documents\Embarcadero\Studio\Projects\File1.cpp=C:\Users\stran\Documents\Embarcadero\Studio\Projects\Crypto.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,=C:\Users\stran\Desktop\Crypto — RSA32\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.242,=C:\Users\stran\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,C:\Users\stran\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\stran\Desktop\Crypto\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.633,C:\Users\stran\Desktop\Crypto\Project1.cbproj=C:\Users\stran\Desktop\Crypto\Crypto.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.904,C:\Users\stran\Desktop\Crypto — RSA32\Encryption_RSA_Advanced.cpp=C:\Users\stran\Desktop\Crypto — RSA32\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.723,=C:\Users\stran\Desktop\Crypto\Encryption_XOR.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.073,=C:\Users\stran\Desktop\Crypto\Encryption_XOR_Advanced.h</Transaction>
+  </Transactions>
+</BorlandProject>
